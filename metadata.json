@@ -1,0 +1,6 @@
+{
+  "name": "EMLRIS - Mining Regulatory System",
+  "description": "Ethiopian Mining Licensing & Regulatory Information System (EMLRIS) for MoM & MIDI coordination",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
